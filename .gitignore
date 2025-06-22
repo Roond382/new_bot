@@ -6,3 +6,26 @@ __pycache__
 *.pyo
 *.pyd
 *.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+
+# SQLite database (optional)
+db.sqlite
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
