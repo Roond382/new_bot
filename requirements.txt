@@ -1,7 +1,6 @@
-# requirements.txt
-python-telegram-bot==21.0b0  # Бета-версия для Python 3.13
+python-telegram-bot==20.8  # Стабильная версия вместо 21.0b0
 python-dotenv==1.0.0
 apscheduler==3.10.1
 pytz==2023.3
 aiofiles==23.2.1
-pillow==10.2.0
+pillow==10.2.0  # Совместимая версия
